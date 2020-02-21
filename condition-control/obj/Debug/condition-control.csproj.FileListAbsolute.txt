@@ -1,0 +1,6 @@
+F:\C#\condition-control\condition-control\bin\Debug\condition-control.exe.config
+F:\C#\condition-control\condition-control\bin\Debug\condition-control.exe
+F:\C#\condition-control\condition-control\bin\Debug\condition-control.pdb
+F:\C#\condition-control\condition-control\obj\Debug\condition-control.csprojAssemblyReference.cache
+F:\C#\condition-control\condition-control\obj\Debug\condition-control.exe
+F:\C#\condition-control\condition-control\obj\Debug\condition-control.pdb
